@@ -24,6 +24,6 @@ Connect Four is a classic two player board game where the objective is to be the
 
 ## How to Run:
 1. Clone the Repository
-2. run a virtual environment
+2. run a virtual environment: ``.\venv\Scripts\activate``
 2. run ``pip install -r requirements.txt`` into terminal
 3. run ``python main.py`` into terminal or run the game on your IDE
